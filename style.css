@@ -1,3 +1,4 @@
+
 h2{
     text-align: center;
 }
@@ -7,9 +8,26 @@ button{
   text-align: center;
 }
 body{
-    background-color: #AAFBF3;
     text-align: center;
 }
-#div{
-    border-style: double;
+#c1{
+    background-color: aqua;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#t1{
+    font-size: 40px;
+}
+#bt1{
+    font-size: 15px;
+    float: right;
+}
+#bt2{
+    font-size: 12px;
+    float: left;
+}
+p.pErro{
+    color:red;
 }
